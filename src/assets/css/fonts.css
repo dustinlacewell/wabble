@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Psychotic';
+    src: url('../fonts/psychotic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Wabble';
+    src: url('../fonts/wabble.ttf') format('truetype');
+}
+
+.psychotic {
+    font-family: 'Psychotic';
+}
+
+.wabble {
+    font-family: 'Wabble';
+}

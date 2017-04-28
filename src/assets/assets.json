@@ -1,0 +1,61 @@
+{
+    "assets/images": {
+        ".": [
+            "loader.png",
+            "logo.png"
+        ],
+        "splash": [
+            "a.png",
+            "pyweeklings.png",
+            "game.png",
+            "bg.png"
+        ],
+        "backgrounds": [
+            "babaroa.png",
+            "cushion.png",
+            "dots.png",
+            "kabuki.png",
+            "kakigori.png",
+            "koumori.png",
+            "lips.png",
+            "roof.png",
+            "sakurach.png",
+            "sakurasob.png",
+            "waavy.png",
+            "dempa.png",
+            "eyes.png",
+            "kaeru.png",
+            "kaki.png",
+            "layered.png",
+            "rollers.png",
+            "rotsnake.png",
+            "sakuras2b.png",
+            "snake.png"
+        ],
+        "blob": [
+            "blob.png",
+            "blob2.png",
+            "blob3.png",
+            "slime_1.png",
+            "slime_2.png",
+            "blood.png"
+        ],
+        "highscore": [
+            "score.png",
+            "scoretext.png"
+        ]
+    },
+    "assets/audio": {
+        "music": [
+            "opening.mp3",
+            "lindus.mp3"
+        ],
+        "fx": [
+            "laser.mp3",
+            "chew.mp3",
+            "scream1.mp3",
+            "scream2.mp3",
+            "scream3.mp3"
+        ]
+    }
+}
